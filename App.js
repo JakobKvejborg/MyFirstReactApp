@@ -63,7 +63,7 @@ export default function App() {
 //_____________________________________
 
 
-// Dette er CSS
+// Dette er CSS (hvordan tingene ser ud)
 //____________________________________
 const styles = StyleSheet.create({
   container: {
